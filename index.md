@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-[//]: https://fontawesome.com/v4/
+[//]: https://fontawesome.com/v4/icons/
 
 # St. Maria Veranstaltungstechnik
 ## Audiotechnik [<i class="fa fa-wikipedia-w" aria-hidden="true"></i>](https://de.wikipedia.org/wiki/Tontechnik)
